@@ -25,7 +25,7 @@
 - How to solve merge conflicts
 
 ### How I’ll Apply It  
-- I will apply it in my project and any future projects I do in a team
+- I will apply it in my project to resolve conflicts and update code and coordinate with others in any future projects I do in a team.
 
 </details>
 
