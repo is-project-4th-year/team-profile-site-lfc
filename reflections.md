@@ -21,11 +21,11 @@
 <summary><strong>Islam Faruk Jeizan – 150892</strong></summary>
 
 ### What I Learned  
-- <TODO Point 1>  
-- <TODO Point 2>  
+- How to create branches on my repository
+- How to solve merge conflicts
 
 ### How I’ll Apply It  
-- <TODO Application>  
+- I will apply it in my project and any future projects I do in a team
 
 </details>
 
