@@ -21,7 +21,7 @@
 <summary><strong>Islam Faruk Jeizan – 150892</strong></summary>
 
 ### What I Learned  
-- How to create branches on my repository
+- How to create branches on my repository for different changes I made.
 - How to solve merge conflicts
 
 ### How I’ll Apply It  
