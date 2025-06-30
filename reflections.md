@@ -33,11 +33,11 @@
 <summary><strong>Wanjohi Jeremy Kariuki – 150000</strong></summary>
 
 ### What I Learned  
-- <TODO Point 1>  
-- <TODO Point 2>  
+- I have learnt how to connect issues to milestones
+- The different types of commits
 
 ### How I’ll Apply It  
-- <TODO Application>  
+- I will structure my project by having timelines and individual issues linked to a specific milestone which will be visible in the kanban project board. 
 
 </details>
 
