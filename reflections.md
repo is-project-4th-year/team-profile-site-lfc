@@ -10,7 +10,7 @@
 | 1 | Islam Faruk Jeizan | 150892 |
 | 2 | Wanjohi Jeremy Kariuki | 150000 |
 | 3 | Simiyu Michael Keith Wanjala | 151673 |
-| 4 | Mark Rugendo | TBD |
+| 4 | Mark Rugendo | 138906 |
 | 5 | Peter Kimani | TBD |
 
 ---
@@ -55,14 +55,14 @@
 </details>
 
 <details>
-<summary><strong>Mark Rugendo – TBD</strong></summary>
+<summary><strong>Mark Rugendo – 138906</strong></summary>
 
 ### What I Learned  
-- <TODO Point 1>  
-- <TODO Point 2>  
+- I have learned how to create branches on github for organization of work. >  
+- I have learned the importance of being up to date on github to avoid merge conflicts.>  
 
 ### How I’ll Apply It  
-- <TODO Application>  
+- I will apply the lessons such as branching, milestones and timelines to better track and organize my work.  
 
 </details>
 
